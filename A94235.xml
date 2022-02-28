@@ -1,0 +1,421 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A scandalous, libellous, and seditious pamphlet entituled, The valley of Baca: or, The armies interest pleaded, the purchasors seconded, the danger of the nation demonstrated in 34 quæries, answered. And the present state of affaires briefly vindicated. By a true lover to the peace and wellfare of his countrey.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94235</idno>
+            <idno type="STC">Wing S815</idno>
+            <idno type="STC">Thomason E1034_16</idno>
+            <idno type="STC">ESTC R203483</idno>
+            <idno type="EEBO-CITATION">99863428</idno>
+            <idno type="PROQUEST">99863428</idno>
+            <idno type="VID">115630</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94235)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115630)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 153:E1034[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A scandalous, libellous, and seditious pamphlet entituled, The valley of Baca: or, The armies interest pleaded, the purchasors seconded, the danger of the nation demonstrated in 34 quæries, answered. And the present state of affaires briefly vindicated. By a true lover to the peace and wellfare of his countrey.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to an untraced work.</note>
+                  <note>Annotation on Thomason copy: "July 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115630:1" rendition="simple:additions"/>
+            <p>A Scandalous, Libellous, and Seditious PAMPHLET Entituled, The Valley of Baca: OR, The <hi>Armies</hi> Intereſt pleaded, the <hi>Purchaſors</hi> ſeconded, the danger of the Nation demonſtrated in 34 QUAERIES, <hi>ANSWERED.</hi> And the preſent ſtate of Affaires briefly vindicated.</p>
+            <p>By a True Lover to the Peace and Wellfare of his Countrey.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115630:2"/>
+            <pb n="3" facs="tcp:115630:2"/>
+            <head>THE Valley of BACA Anſwered.</head>
+            <p n="1">1. <hi>VVHe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her ſeeing it was the Parli<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ments Army that brought in his Majeſty when his own Party and Armies could not do it, They deſerve not all due reſpect and tenderneſs? And whether proportionable en<g ref="char:EOLhyphen"/>couragement ought not to be given t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuch, who ſhall be found to merit it, accord<g ref="char:EOLhyphen"/>ing to his Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſties late Declarations?</hi>
+            </p>
+            <p>
+               <hi>Anſw</hi> His Ma eſty hath given aſſurance to confer a Character of Fa<g ref="char:EOLhyphen"/>vour upon thoſe Perſon<g ref="char:punc">▪</g> of the Army who were Inſtrumental in his Reſtau<g ref="char:EOLhyphen"/>ration; and in order thereunto, there is Care taken, that thoſe Lands pur<g ref="char:EOLhyphen"/>chaſed by them, or Received for Service, in their poſſeſſion, to be ſecured to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem and their Poſterity.</p>
+            <p n="2">2. <hi>Whe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her it can be call'd tenderneſs, or encouragement, to turn out ſo many of the old Officers <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Souldiers of the Army, and Garriſons, contrary to the known Laws Martial, and contrary to his Ma eſties Royal Promiſe and En<g ref="char:EOLhyphen"/>gagement, not paying <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir Arrears before disbanding nor letting them know any cauſe for which they are Outed, onely to make way for ſuch who have been known Enemies to Parliament and Army, not having left above one Comm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſioned-Officer in many Regiments? And whether the reſt of the Army, who engaged for the Parliament, are not like ſpeedily to follow, if not prevented? And whether the Nations are not inſenſibly brought hereby to ruine and ſlavery, before they ſee it.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> To the Second, Let the Queriſt inform himſelf aright, and he ſhall find tho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e onely of the old Army diveſted of their Imploymen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, that have been Inſtrumen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s actively or paſſively under all Changes, and are perſon, tempered fit for the ſwallowing down of any Change whatſoever:
+<pb n="4" facs="tcp:115630:3"/>And thoſe Continued, are either Perſons that have given Teſtimony of their diſlike of thoſe Grand Inconveniencies that were daily practiſed upon theſe Nations, by a Giddy, Unconſtant, Proud, Inſolent, Ignorant, and un<g ref="char:EOLhyphen"/>principled Generation: Or elſe ſuch who were wearied out with the often Changes, abhorred to be Inſtruments longer in uſing their Arms to defend Faction, and therefore they did readily adhere to that Noble Northern Conductor. The Queriſt in theſe words, <hi>viz. Turning out many of the Officers of the Army, to make way for known Enemies,</hi> diſcovereth his ſpirit to be turbulent and factious, to keep up diſtinctions of Parties: A thing Dangerous and Unprofitable, and not permitted by any Wiſe Princes or States. But as the Caſe now ſtandeth, it is the moſt wiſe and adviſeable courſe that can be taken, to put Arms in the Hands of ſuch Perſons of both Parties, as really deſire Settlement. If the Arms of the Nation were not ſo diſpoſed of, there would be new Matter for Jealouſie: which is endeavoured to be fomented by the Author of theſe Queries.</p>
+            <p n="3">3. <hi>Whether the Juſtice of the Long Parliaments Cauſe, hath not been ſufficiently owned by the late King, his conceſſions at the Iſle of</hi> Wight; <hi>And by the Solemn Covenant and Declaration of this King, made and taken at his Coronation in</hi> Scotland?</p>
+            <p>
+               <hi>Anſw.</hi> No doubt, but <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat Publike or Sacred Act or Thing was done either by his late Majeſtie, or his now Majeſty, due reſpect will be had thereunto: However, the Scene of Affairs are altered, his late Majeſty was under Reſtraint, and a powerful Army in being; his Majeſty preſent had a Crown offered him upon Terms, it is not to be believed or ſuppoſed (other<g ref="char:EOLhyphen"/>wiſe then Enviouſly) that what His Father did, or what He did Himſelf, will be by Him diſowned; although peradventure not in the ſenſe of the Author of theſe Queries. His Majeſty now was called in out of a perfect neceſſity to bring the Nation to ſome kind of Settlement; and the ſecurity the Nation hath, is his own Intereſt; that is, it is his Intereſt to do all or more than what juſtly or legally could have been expected by the Undertakers of the late War: It is evident, for that by any thing his Majeſty hath already done; and will be led by his Principles of juſt preſerving Policy, his deep Judgment and Skill in Government, that he will be a King of Vertue, a Rectifier of Abuſes, a Ballance to Juſtice, a Prevention of Exorbitancies in Miniſters of State and Juſtice, an Expeller of bad and grievous Lawes, a Diſcountenancer of Debauchery and Vice, an Encourager of thoſe that do well; by which he will find Favour of God and Man.</p>
+            <p n="4">4. <hi>Whether this Convention now ſitting, are not like to endanger the Cauſe of the Long Parliament, our Religion and Liberties, by bringing the guilt of the
+<pb n="5" facs="tcp:115630:3"/>blood ſhed in the late War, upon their heads, and all who adhered to them, if the bold and ſaucy incroachments of Prelatical and other intruders, be not timely pre<g ref="char:EOLhyphen"/>vented?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I ſhall anſwer this Quaere with another, whether that the Long Parliament did not ſuffer their Cauſe to be overthrown by <hi>Cromwel</hi> the Uſur<g ref="char:EOLhyphen"/>per and his Acomplices, in the ſecluding of Members, putting to Death of the King, and other Actions that made the Nation to loath them, and weed<g ref="char:EOLhyphen"/>ed them out of an Intereſt to back them in carrying on of what they under<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ok.</p>
+            <p n="5">5. <hi>Whether the Old Parliament may not yet have another Reſurrection, ſeeing they could not be d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſolved without the joynt conſent of both Houſes, which hitherto hath not been done according to the Legal intent of the Act for that purpoſe?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> To the firſt part I anſwer yes, 19000 years hence, if the Doctrine of that Philoſopher be true, that once in 19000 years all Beeings ſhall Act the ſame part over again, they have already Acted hereupon Earth: In this Age it is not likely they ſhall have a Reſurrection, in regard they preſerved not their Authority, free from thoſe Violations and Alte<g ref="char:EOLhyphen"/>rations that paſſed upon them. To the other or laſt part of this Quaere, I anſwer, As the Saylor cannot Sayl by the Compaſs in a Storm; and that it is convenient to reſtrain the Sick from Food, and to give him Phyſick, Laws that are made to reſpect ſuch and ſuch Reaſons of State are in force as long as the occaſion laſteth. Affairs have changed themſelves into many forms and ſhapes, ſince inſomuch that that Act will not at all fit or ſort with Affairs now; it is become Null and Void of it ſelf. If they had con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inued without thoſe Viciſſitudes and Changes, and the ſame Reaſons of State on foot, and the ſame Intereſt able to ſupport it ſelf, in that Caſe the Act had been pleadable. <hi>Bracton, Fleta, Horn,</hi> and <hi>Littleton</hi> agree, That if the Lord ſhall fail to protect his Vaſſal, the Vaſſal's Oath's diſſolved, for that the Law intendeth a Condition, and the Law freeth him from his Obe<g ref="char:EOLhyphen"/>dience: Even ſo is it, that Parliament ſeaſed to be a Parliament, by being not able to protect the People from thoſe frequent Violations &amp; Out-rages, Irre<g ref="char:EOLhyphen"/>gularities and Diſorders that were daily committed upon the Sub<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ect; and as the Vaſſals ſervice in the aforementioned Caſe, and the like Caſes might be atturned and aſſigned to another Lord; So doubtleſſe the Sub<g ref="char:EOLhyphen"/>ject may be atturned and aſſigned to ſit under the Council and determinati<g ref="char:EOLhyphen"/>on of another Parliament.</p>
+            <p n="6">6. <hi>Whether ſeeing there is like to be ſo great a difference in the Complexion of Parliaments, one being ready to give away that, which the other hath obtained by Conqueſt: and the next ſucceeding ready to condemn the former for ſo doing, it be
+<pb n="6" facs="tcp:115630:4"/>not moſt ſafe for his Majeſty and this Convention, to grant and confirm his Fathers Conceſſions in the Iſle of</hi> Wight?</p>
+            <p>
+               <hi>Anſw.</hi> To this let the Authour look back, and he ſhall find that Parlia<g ref="char:EOLhyphen"/>ments ſpeak the language of the Intereſt of State that is moſt Predominate at the time of their Sitting; If the Factions of the People be Predominate, it ſpeaketh lowdeſt in their behalf; and ſo of the Prince, the like of the Nobility or Clergy. So that if it were neceſſary for the beginning of the Long Parliament to adhere to the People, it is now more neceſſary for this Parliament to adhere to his Majeſty, to ballance the extremity of the Humor of State that did ſwell it ſelf up to Inconſiſtency on the behalf of the People, inſomuch that nothing but Ruine and Confuſion could have been expected. Who is it that doth not ſee that if this Parliament ſhould out of their Affections to his Ma eſty, give away all the People Righ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s? Tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ma<g ref="char:EOLhyphen"/>jeſty himſelf out of his Wiſdom, and Juſtneſs, and Nobleneſ of mind will be a good allay, he knowing like a good Phyſitian of State, that it is neceſſary in the conſtitution of a Body to keep the Hun ors equal by proportion, that one do not predominate over the other, wh ch produceth a healthy Conſti<g ref="char:EOLhyphen"/>tution; the contrary, Diſeaſes: as for hi granting of the Conceſſions of the Iſle of <hi>Wight,</hi> as the Caſe now ſtandeth, it would not be ſafe to Poſterity to inſiſt upon that, but rather as is ſaid before, to account it ſufficient to re<g ref="char:EOLhyphen"/>ceive no other ſecurity than what his Majeſty's Intereſt will produce, the which by the operations of time, will reduce all other Intereſts to a condi<g ref="char:EOLhyphen"/>tion of Security.</p>
+            <p n="7">7. <hi>Whether any thing done by this Convention, can be obleiging to the Nation, ſeeing they have not the right Conſtitution of a Parliament; according to the Fun<g ref="char:EOLhyphen"/>damentall Laws of the Kingdom: And whether any Parliament can be ſo called for the future, till the Long Parliament, conſiſting of Lords and Commons, be actu<g ref="char:EOLhyphen"/>ally diſſolved by <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oint conſent?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That which they do, is obliging to the Nation. If the Nation ſubmit to it, a part diſcontented in the Nation, i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not to be taken for the Nation; but the Intereſt that is uppermoſt is to be taken for the Nation: So it i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> where there is Factions in States, as in <hi>Italy,</hi> the <hi>Gulſes,</hi> and <hi>Gibe<g ref="char:EOLhyphen"/>leons.</hi> If one State ſhould have two Factions in it, another State ſendeth Embaſſage, they ſend to the uppermoſt, who are able to give Lawes; and not to that which muſt receive Lawes. Beſide, what this Parliament doth, muſt needs oblige, becauſe what they do, ſuiteth and agreeth with the Minds of moſt of the Nation. And as Sir <hi>Edward Cook</hi> ſaith, Part 4. <hi>Inſtit. Chap.</hi> of High Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of Parliament, That in ſome Caſes the Members may anſwer, That they muſt go and conſult with their Counties for which
+<pb n="7" facs="tcp:115630:4"/>they ſerve. The Original of all Law; and Power riſe from the People Actively or Paſſively; let them be juſt, or Unjuſt. A good Prince that is abſolute, reſpects what will beſt Suit, Secure, and Content the People: A Tyrant Conſults what he may (having opportunity) inforce upon them. If theſe three Nations ſhould be Conſulted, there would, no doubt, be three to one to give their Approbation of what is done; therefore it muſt be old<g ref="char:EOLhyphen"/>ging to the Nation. In ſuch Times, Rule by Mode and Figure cannot be obſerved. You cannot ſail by the Compaſs in a ſtorm, as is laid before. For Diſſolution of the Long Parliament by Joynt Conſent, that need not to be, unleſs that the Long Parliament had kept their Intereſt &amp; themſelvs in the ſame form without alteration, &amp; power to be able to give Lawe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> together with the King, as they did at the time of paſſing that Act. If that Parliament at the time of ſitting down of this, had undertaken to deal in the Govern<g ref="char:EOLhyphen"/>ment as formerly, I pray what obedience would the Nation have given to them? So that the Act in that caſe became void of it ſelf. There be many Acts of Parliament that become void by time, and need no other repealing, then that which they provide againſt, growing up to uſe. As for Example, There is an Act yet unrepealed, that no Ho s ſhall be Brewed in Beer; &amp; another, That no Sea-Coal ſhall be burned in <hi>London.</hi> Is there any need of Repealing theſe Acts? None ſurely. The Caſe is the ſame in the Matter in hand: for there is now no Intereſt that is able to ſtrengthen is, to be ob<g ref="char:EOLhyphen"/>ſerved: nor is there need to repeal it; for that it is Repealed by ſeverall Concurring accidents and affairs of State that are Conſiderable in oppoſi<g ref="char:EOLhyphen"/>tion of that, able to render it uſeleſs and void, as it is.</p>
+            <p n="8">8. <hi>Whether if the King by his power, can make this a Legal Parliament, before ſuch a Diſſolution of the other, his Father could not do the like? And whether the Mungril Parliament which he choſe at</hi> Oxford, <hi>was not as uſt and Legal as this?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This Parliament had a Legal Being and Power from the People, as is before expreſſed: Their Election demonſtrated the Peoples Conſent and Approbation; which is a ſufficient ſtamp of Authority. His Majeſtie's Conſent being added thereunto, maketh it unqueſtionable. If the King by his Arms, and if that Parliament at <hi>Oxford</hi> by their Counſel had prevailed, their Succeſs had given it a ſufficient Sanction for its Legality.</p>
+            <p n="9">9 <hi>Whether by the late Vo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e paſt by his Convention, to diſpoſſeſſe all Sould'ers and Purchaſers, of their Intereſts in Crown-La<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, when they m ght by long Lea<g ref="char:EOLhyphen"/>ſes, have ſecured his Ma eſtly ſitle, incre ſel his Revenue beyond his Predeceſ<g ref="char:EOLhyphen"/>ſors; and have alſo ſatisfyed thouſands of Families tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are now undone, it doth not evidently appear, that they have deſigned and reſolved to ruine and deſtroy all thoſe that ever ſerved, and adhered to the Intereſt of the Long-Parliament?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> If the Counſel, Arms, o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Intereſt of the Poſſeſſors of theſe Lands
+<pb n="8" facs="tcp:115630:5"/>had been able to have held them, their Title had been made good by the ſame means they held it by, ſo long it laſted: but that ſailing, their Title is void; and now it muſt be in his Majeſtie's Royal Breaſt what he will do in that caſe: No doubt but he will be moderate, becauſe he will not leave too great an Impreſſion of Diſcontent upon ſo Conſiderable a part of the Nation. Other then this, the Purchaſers of thoſe Lands cannot in Juſtice expect, as the caſe ſtandeth.</p>
+            <p n="10">10. <hi>Whether it be not therefore the beſt way for his Majeſty ſpeedily to diſſolve this Convention, and not confirm any thing they ſhall enact; But rather, forthwith to recall the old Members to ſettle the Nations?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Whether that be not as much as to ſay, Let there be a founda<g ref="char:EOLhyphen"/>tion laid for a New Warr. Whether is it convenient to do any thing that ſhould give cauſe of Jealouſie to his Majeſty of his State and Dignity, if he ſhould meet with oppoſition, it would but put a neceſſity upon him to fortifie himſelf by ſuch Reaſons of State, as would be remote from the good of the Publike: Whereas otherwiſe, he meeting with no oppoſition, will be led by Natural Conſequences, to do all that may be obliging: His Ma<g ref="char:EOLhyphen"/>jeſty by his long deprivation, hath learned the temper of the Engliſh Na<g ref="char:EOLhyphen"/>tion, well obſerved by Sir <hi>John Suckling,</hi> in his Letter to the Lord <hi>Jermyn,</hi> 1640. ſaith, <hi>The King may preſerve his power, by giving it away: for the peo<g ref="char:EOLhyphen"/>ple of</hi> England <hi>have ever been like wantons, which pull and tugg as long as the Kings have pulled with them, as you may ſee in</hi> Edw. 3. <hi>King</hi> John, <hi>and</hi> Edw. 2. <hi>and indeed by all the Troubleſome and <g ref="char:V">Ʋ</g>nfortunate Reigns: but thoſe Kings as have let it go to oblige the People, the People have put it into their hands again with addition, as you may ſee by Queen</hi> Elizabeth, <hi>and others, Kings of this Realm.</hi> Thoſe have been moſt powerful abroad and at home in their own Dominions, who obliged their People moſt: That this is the Diſpoſition of His preſent Majeſty, is certain; and Envy it ſelf cannot truly ſay other<g ref="char:EOLhyphen"/>wiſe.</p>
+            <p n="11">11. <hi>Whether it be not as dangerous for his Majeſty to caſt aſide his old Parli<g ref="char:EOLhyphen"/>ament, to follow the Council of theſe young Conventioners, who can neither ſecure, him, themſelvs, nor the People; As it was for</hi> Rehoboam, <hi>in a paralell caſe, ſee<g ref="char:EOLhyphen"/>ing the Spirit of the Nation is ragingly diſcontented?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Whether that if his Majeſty ſhould do ſuch a thing, it would not diſcontent the Nation much more than it is at preſent, as the Authour ſup<g ref="char:EOLhyphen"/>poſeth, or then can be imagined by the Author: It is to be admired, that the Parliament, whom he malitiouſly calleth a <hi>Convention,</hi> are not more ſevere; it is an argument that they are deliberate and grave. If it were ſo, as he wickedly ſuggeſteth, His Majeſtie's unexpreſſible Temper and Inclination
+<pb n="9" facs="tcp:115630:5"/>to Moderation, will be a good allay, as is ſaid before. Indeed, it hath been uſual in ſuch Viciſſitudes, that when one part of a Nation hath made Warr upon another, That the predominate party have been Tainted with Revenge: But this preſent Parliament make no other uſe of their Power then becometh them, and demonſtrateth their Undertaking to be the Effect of Council, and not of Arms. Beſides, His Majeſty is endowed with a ſpirit of diſcerning, not to Incline to ſuch Councels as ſhall tend to the Detriment of the Publike. Which is our greateſt happineſs and ſecu<g ref="char:EOLhyphen"/>rity.</p>
+            <p n="12">12. <hi>Whether if our Religion and Liberties, contended for by the Long-Parli<g ref="char:EOLhyphen"/>ament, with the expence of ſo much Blood and Treaſure, ſhould be now loſt, we are not like to be brought to the French mode of Government: and all Perſons deterr'd ever to appear for a Parliament</hi> in futuro?</p>
+            <p>
+               <hi>Anſw.</hi> This need not be feared at all: <hi>Philip de Comenius</hi> obſerveth well of the Engliſh Nation, that they cannot endure too much ſlavery, or too much liberty; This hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Majeſty well knoweth, and that if it were at his Majeſtie's Choyſe to be King of <hi>England</hi> as the King of <hi>France</hi> is King of <hi>France,</hi> he would rather chuſe to be King of <hi>England</hi> upon the tearms his Predeceſſors were Kings of <hi>England,</hi> for that it is more honourable for to be King of Princes or Freemen, than to be King of Slaves and Peſan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s: He who ruleth a Free People is much more powerfull, for that his Arm and Treaſure he can imploy againſt a Common Enemy, and be able to give Laws to Forrain Princes, either by Council or Arms, whereas if he Rul<g ref="char:EOLhyphen"/>eth Slaves, his Council and Arm are alwayes Imployed in his own de<g ref="char:EOLhyphen"/>fence againſt his own People whom he ſhould defend and pro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ect.</p>
+            <p n="13">13. <hi>Whether, ſeeing the Deſign is now viſible to debauch the Army, by caſting out the Parliament's Friends, thereby to intrude their Enemies, by which means contentions and diſcords may ariſe, ſeeing the greateſt part of the Army and others who are engaged for the Parliament are ſtill in being, who cannot but retain affecti<g ref="char:EOLhyphen"/>ons to their old Principles and Ma<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ers, It be not therefore moſt ſafe ſpeedily to diſ<g ref="char:EOLhyphen"/>band the Army, ſeeing alſo it was the Expectation of the Nation upon the Return of his Majeſty to his Government; The Militia being ſufficient to ſecure the peace of the Kingdom.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> For the Anſwer to this, you are referred to the Anſwer to the ſe<g ref="char:EOLhyphen"/>cond Quaere, onely to the laſt part of this Quaere, <hi>viz. The disbanding of the Army, and truſting to the Militia:</hi> If that were effected, immediately the Authour would arrive to his Arm and End, which would be dangerous; for if the Militia ſhould be ſettled in the hand of one party, it would be cauſe of jealouſly in the other, if you ſhould ſettle the Militra in the Hands
+<pb n="10" facs="tcp:115630:6"/>of all Parties, it would be uſeleſs: So that it is better to wave truſting to the Militia, until that the mind<g ref="char:punc">▪</g> of all are more quiet and ſettled, and to keep up a conſiderable part of the Army, which being Conducted, as is expreſſed in the Anſwer to the ſecond Quaere, will be in his Majeſtie's Hands an equal Arbitrator of Differences, and of much more uſe and leſs Charge to the Nation than the Militia will be, for that he who payeth 5. <abbr>s.</abbr>
+               <hi>per annum</hi> to the Aſſeſſements for the Army, will be at 20 <abbr>s.</abbr>
+               <hi>per annum</hi> Charges at the leſt in finding Arms and other Expences and loſs of time, by attending at Muſter, &amp; infinitly much more in caſe of Se vice, the like of his I ſtate proportionably, that ſhall by the Act for the Militia find Horſe and Arm, and pay to a Rider: The Militia will be of uſe when the minds of People are united into One, which (no doubt) will be by the Indeavours of his Majeſty and with the bleſſing of God in a ſhort time, if not anticipated by the wicked practiſes of the Jeſuits, and the ungratefulneſs of unquiet Spi<g ref="char:EOLhyphen"/>rit.</p>
+            <p n="14">14. <hi>Whether it be ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe for his Majeſty to enforce a ſuperſtitious form of Wor<g ref="char:EOLhyphen"/>ſhip when covenanted againſt, and whether, if according to the Covenan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, the Na<g ref="char:EOLhyphen"/>tion ſhould appear againſt it, it may not be of dangerous conſequence to his Majeſty's Government?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> For the Anſwer to this, you are referred to the Anſwer to the 19th. and 27th. Quaeries.</p>
+            <p n="15">15. <hi>Whether National ſins will bring down National Judgments, and whe<g ref="char:EOLhyphen"/>ther the ſins of Blood and Idolatry, no onely at preſent ſeemingly commitred, but promoted by this Convention, are not like to become Nationall ſins if his Majeſty prevent not?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> To this I ſhall ſay little, in regard the Author hath referred the pre<g ref="char:EOLhyphen"/>vention of his fears to his Majeſty, who is a merci<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ull <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd wiſe Prince, who will do that which ſhall not be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſtly ſenſurable by hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worſt of Enemies; that he may be ſo, we muſt pray to the Almighty to lead him by the hand of Providence, and ſtill watch over him for good to theſe Nations.</p>
+            <p n="16">16. <hi>Whether thoſe who oppoſed his Majeſty's c ming in upon conditions, have not ſhewed themſelves unfrienaly both to their King and Country; and whe her they who ſhould have been the People's refuge have not proved their ruine, by not aſ<g ref="char:EOLhyphen"/>ſerting the old Parliament's Cauſe to be juſt and lawful, as their Brethren did in</hi> Sco<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>land?</p>
+            <p>
+               <hi>Anſw.</hi> It is very certain, as before alledged, That it is better that his Majeſty came in without Tearms, than with Tearns; for if that he had come in upon Tearms, thoſe Tearms muſt have been made with one Party or Intereſt, or with all the Parties and Intereſts; if with one of the Partie,
+<pb n="11" facs="tcp:115630:6"/>that had been to the prejudice of the reſt: if it had been with all the Par<g ref="char:EOLhyphen"/>ties, that could hardly have been effected: The Differences were ſo irre<g ref="char:EOLhyphen"/>concilable, that without an Umpire, it would have produced another War, and unto which of the Parties Succeſs might have happened is uncertain, ſo that all had run an equal danger; therefore it is much better that his Majeſty came in as an equall Arbitrator of all our Differences. Moreover, at that time when his Majeſty was invited into the Nation, <hi>Lambert</hi> was forming a new War, which would have been ſafe for no Party, whoſe Principles were nothing but Ambition, who, as he hath ſaid himſelf, did Interrupt the then ſitting Parliament the 13 of <hi>October,</hi> 1659. upon no more than half an hours conſideration, being led thereto by a violent Impulſe of the Spirit; ſuch a perſon as ſhall attempt ſuch a thing upon the face of Authority without more deliberation, Let it be Legal or Illegal, is not at all to be truſted. So that it is evident, that there was a neceſſity of his Majeſties coming in at that time, &amp; that it will be for the better to the Nation that he came in without Tearms: For as he is King of all, ſo he now muſt equally reſpect all, and Frame all his Reaſons of State to that End: by which, he will lay a ſure Foundation to his Soveraignty.</p>
+            <p n="17">17. <hi>Whether, ſeeing there is above four hundred Thouſand Families engaged to that old Parliament's Cauſe, by way of purchaſe in this Nation, who are like to loſe their Purchaſes, It be not onely dangerous at preſent to inflame the Spirits of theſe mea; But whether it be not a ground to eſpouſe a quarrel to their poſteri<g ref="char:EOLhyphen"/>ties, if their Eſtates ſhould not be confirmed?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> See the Anſwer to the 9th Quaery. Moreover, the Intereſt of the Purchaſors was not able to buy it ſelf up to make Terms, nor ſupport that Intereſt that ſold the Lands unto them: Therefore His Majeſty is not bound to make good thoſe Sales, farther then his Royall Word ſhall oblige him, or his Intereſt lead him unto: Which no doubt will be Honourable.</p>
+            <p n="18">18. <hi>Whether any confidence can be put in a giddy multitude, who crying</hi> Hoſanna <hi>to day, are ready to cry</hi> Crucify <hi>to Morrow, especially of the Engliſh Nation, who are ever fluctuating?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> His Majeſty knoweth full well, That no Confidence is to be put in the Multitude: but that he muſt put Confidence in Actions of Juſtice and Honour, which will Eſtabliſh His Throne, Adorn his Crown, and ſtrengthen him to diſplay his Scepter to the ſatisfaction of all Intereſts.</p>
+            <p n="19">19. <hi>Whether, ſeeing Prelacy was a main Ingredient into the late Wars, (they having intruded ſo many Engliſh Popiſh Ceremonies into the Church,) and his Ma eſty is bound by Covenant and Declaration to root it up in his Dominions, it can therefore be ſafe to re-eſtabliſh it; And whether Mr.</hi> Duglas <hi>his Sermon was
+<pb n="12" facs="tcp:115630:7"/>not a ſpirituall Prediction of ſome ſpeedy Judgment to follow, if ſuch a horrid vio<g ref="char:EOLhyphen"/>lation of the Covenant be tolerated?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> His Majeſty's proceedings in that particular are juſt and honoura<g ref="char:EOLhyphen"/>ble; He intendeth a Synod to reconcile thoſe differences in the Church: It is as reaſonable for the Presbyterians to abate of what they would have, as for the Epiſcopal to abate of what they deſire; for that as to Government or Ceremonies in the Church, neither of their Forms are abſolutely neceſſa<g ref="char:EOLhyphen"/>ry to Salvation: So that his Majeſty, by the advice of a learned and wiſe Synod to moderate things between them that they may unite and agree, will, as He is Head of theſe Nations, do a Good Office, and anſwer the Ends of the Covenant, which ſeemeth to drive principally at a Govern<g ref="char:EOLhyphen"/>ment according to the Word of God: and not ab olutely this, or that, Government, farther then in oppoſition to that of Popery, &amp;c.</p>
+            <p n="20">20. <hi>Whether it be not the duty of the Miniſtry to prevent the Apoſtacy of their People from the Cove<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ant, by their Preaching and Doctrines, now we are run<g ref="char:EOLhyphen"/>ning <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto another extream, as well as they did lately when in a former extream, especially, when the Wolf is already amongſt their flocks; And whether it be not the duty of all Cities and Counties, to follow the Examples given from</hi> Wiltſhire <hi>and</hi> Dorſetſhire, <hi>by petitioning to ſettle Religion according to the Covenant?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Author ſoundeth the Trumpet of Sedition in this Quaery but he will be prevented by his Majeſty's care in that particular in his Recon<g ref="char:EOLhyphen"/>ciling the two grand and conſiderable Intereſts of theſe Nations.</p>
+            <p n="21">21. <hi>Whether the turning out near three thouſand learned and godly Miniſters, to intrude ſuch who neither know how to pray or preach, will not encreaſe diſcontent in all their Congregations, when they ſhall ſee how their Souls are like to be ſtar<g ref="char:EOLhyphen"/>ved and cheated?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That there hath not been any as yet turned out becauſe <hi>Presbyte<g ref="char:cmbAbbrStroke">̄</g>ri<g ref="char:EOLhyphen"/>ans,</hi> but becauſe in others Rights; if they cannot pray and preach, doubtleſſe upon due proof thereof Remedy may be had againſt them in that caſe; for his Majeſty hath declared that he will maintain a godly Miniſtry; And no Prince yet that ever lived upon the Earth hath ever accounted his Word more ſacred than he doth.</p>
+            <p n="22">22. <hi>Whether it will not renown his Majeſty in the hearts of his People, to ha<g ref="char:EOLhyphen"/>ſten a full Indempaity to all his Subjects in his Dominions, as an Act of Coun<g ref="char:EOLhyphen"/>cil, till the old Parliament ſits, and to expunge all Proviſoes which may any way invalidate the operation of the Act, and to do the like by an Act for Sales?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> How often hath his Majeſty out of his own grace urged the paſ<g ref="char:EOLhyphen"/>ſing of the Act of Indempnity, with as much earneſtneſs as the partie them<g ref="char:EOLhyphen"/>ſelves that are concerned can in modeſty deſire.</p>
+            <p n="23">23. <hi>Whether the making of Dr.</hi> Reynolds, <hi>Mr.</hi> Calamy, <hi>and Mr.</hi> Baxter,
+<pb n="13" facs="tcp:115630:7"/>
+               <hi>Chaplains at Court, be not a Prelatical deſign, either to draw them by preferme to that party, or to lull the</hi> Presbyterians <hi>aſleep, till they are all turn'd out o their places, as many are ſerved already?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The 3 Perſons here mentioned are not ſuch to be warpt to any thing that is evil, in hope of Preferment: Nor is it his Majeſty's deſign, other than to be truly informed by them of the beſt and moderate wayes to Re<g ref="char:EOLhyphen"/>conciliation, which will be much better than for his Majeſty to adhere to one party or to the other party; for that his adhering to one party would not be ſafe, alſo the keeping them in equal hopes and favour is not ſafe, for that the keeping up of Factions in Church will produce Factions in State: therefore the way his Majeſty is now taking, is the beſt to pleaſe God, ſecure himſelf, and for handing forth peace to his People.</p>
+            <p n="24">24. <hi>Whether two National conſtitutions can stand together, and therefore whe<g ref="char:EOLhyphen"/>ther the ſetling of the Prelatical Hierarchy doth not naturally predict the fall an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> extirpation of Presbytery?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That 'tis true as before, the countenancing and incouragement of the one is a detriment to the other; therefore, the extreams of both patries being lopt off, they may be united and become one, which will much re<g ref="char:EOLhyphen"/>nown the Church of <hi>England,</hi> and render it more formidable againſt the Church of <hi>Rome,</hi> whoſe practiſe it is to foment differences; therefore it is the duty of every one to ſtudy and practiſe Reconciliation.</p>
+            <p n="25">25. <hi>Whether ſuch Prelates who have been viewing the Altars of</hi> Damaſcus <hi>are like to have a peaceable entertainment here, in their ſuperſtitious Popiſh foppe<g ref="char:EOLhyphen"/>ries, when a new Generation of Youths are started up ſince their extirpation, who never yet bowed the knee to</hi> Baal.</p>
+            <p>
+               <hi>Anſw.</hi> That although the Presbyterian Intereſt be conſiderable, yet the Epiſcopall are not inconſiderable, if not as conſiderable; and ſince that their difference, in reſpect of Church-Government, is not irreconcilable, Union is to be endeavoured: It is not my work here to preſcribe a way, I leave it to thoſe whoſe work it is to do that, my Task is to detect the Sophi<g ref="char:EOLhyphen"/>ſtry of the Author.</p>
+            <p n="26">26. <hi>Whether ſeeing his Ma esty hath Declared, He will countenance godly Miniſters, it could be therefore intended when he made Dr. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Dean of</hi> Weſt<g ref="char:EOLhyphen"/>minſter, <hi>That the ſaid Doctor ſhould turn out all the Orthodox Miniſters with<g ref="char:EOLhyphen"/>in the liberties of the ſaid <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eana<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, as he is endeavouring to do? And whether the Prelaticall party do not abaſe his Majesty's cars, by telling him they displace none but</hi> Phamticks?</p>
+            <p>
+               <hi>Anſw.</hi> I know not whether it be true or falſe, that the Dean of <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter</hi> hath done any ſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h thing; peradventu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e all the Incu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bents of thoſe
+<pb n="14" facs="tcp:115630:8"/>Livings are alive, or that ſome of them were not ordained by Biſhops or Pre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>byters, in that caſe the Dean's Actions are legal.</p>
+            <p n="27">27. <hi>Whether there be not of the</hi> Presbyterian <hi>way, a hundred good Preachers for one of the Prelaticall; and whether that Government be not best for the Na<g ref="char:EOLhyphen"/>tion, that hath most and best Preachers?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> There are godly and painful Preacher; of bo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h ſo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts; that Go<g ref="char:EOLhyphen"/>vernment aſſuredly is beſt for the Nation that may reconcile theſe two grand Perſwaſions, much better than that which ſhall keep up the Diſtinc<g ref="char:EOLhyphen"/>tions and conſequently the Factions.</p>
+            <p n="28">28. <hi>Whether the re-instating of the</hi> Prelatical Hierarchy, <hi>with the Appur<g ref="char:EOLhyphen"/>tenances, doth not in the conſequence of it make null and void, all Ordinations, Sacraments, and Marriages, practiſed ſince their extirpation; and whether the Nation hereby will not be brought into a strange and horrid Confuſion?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Thoſe Perſons that were ordained by Presbyters, and are not up<g ref="char:EOLhyphen"/>on thoſe Livings w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ereof the Incumbents are living, do ſtill remain, and are not, nor are likely to be turned out, but their Ordination is deemed good: As for Marriages, it is a publick Act, and it receiveth its Being and Eſſence from the conſent of the parties, it cannot be made void by <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ing admini<g ref="char:EOLhyphen"/>ſtred by an improper Agent, if it were, all Judgments and Determinations in Law ſince theſe times would be made void: It was the Opinion of the Judges in <hi>Henry</hi> the VII. his time, that the Judgments and proceedings in Law in <hi>Richard</hi> the III. his time were good, although they were paſſed in the Uſurper's time, by whoſe Authority none could adminiſter Juſtice; but the neceſſity of doing Juſtice was ſuch, that the illegal Adminiſtration of it was diſpenſed with. So, the neceſſity of Marriage was ſuch, that the un<g ref="char:EOLhyphen"/>uſual performing of it doth not make it void, becauſe that the conſent of the Parties maketh the Marriage, the other is but the Solemnity of it; and ſince there is a publick Record thereof, it is therefore legal.</p>
+            <p n="29">29. <hi>Whether the best way therefore to ſet<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le the Church, and conſequently the Nations, and to prevent clamours to his Ma esty, were not speedily to ſummon a Synod, conſisting of two Miniſters out of each County, to be choſen by the</hi> Presby<g ref="char:EOLhyphen"/>tery <hi>of Miniſters, calling in the help of the beſt and moſt ſober of the Epiſcopal but not Prelatical party which deligate from</hi> Scotland, <hi>and other Proteſtant Chur<g ref="char:EOLhyphen"/>ches, giving due liberty to the ſoberly conſciencious?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Theſe, or much better Rules, are intended by his Majeſty to be purſued.</p>
+            <p n="30">30. <hi>Whether the preſſing of the Oath of Supremacy be not of dangerous conſe<g ref="char:EOLhyphen"/>quence, to enſnare many thouſands of Proteſtants, who do conſcienciouſly ſcruple it,
+<pb n="15" facs="tcp:115630:8"/>and generally all the</hi> Pre byterians <hi>of the three Nations. And ſeeing the true in<g ref="char:EOLhyphen"/>tention of that Oath was to renounce the Pope's Supremacy, whether it be not more conſonant to a Proteſtant conſcience, to preſs an Oath upon all par<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies, directly ten<g ref="char:EOLhyphen"/>ding hereunto inſtead thereof?</hi>
+            </p>
+            <p n="31">31. <hi>Whether preſſing the Oath of Supremacy, as it now stands, doth not make null and void <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ſolemn League and Covenant; and whether it be not dangerous to enforce the Nations to forſwear themſelves, ſeeing in the one they have directly covenanted and ſworn againſt</hi> Prelates; <hi>and in the other they ſwear to maintain all the Priviledges and Customs, that ei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her now do or heretofore have appertained to the Crown; Of which, creating Biſhops is one. And whether the Conventi<g ref="char:EOLhyphen"/>on taking ſuch an Oath, were not preobliged, not only to eſtabliſh Prelacy; but alſo to turn out all Souldiers and Purchaſers, in any ſuch Lands belonging to the Crown; yea, most unnaturally forcing men to ſwear ſo to do; and conſequently to ſtarve their own Children?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Oath of Allegiance and Supremacy is not at all againſt the Solemn League and Covenant, although it doth oblige thoſe that take the Oath of Supremacy and Allegiance to defend and maintain his Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſty's Righ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Prerogative; as in the creating of Biſhops. Suppoſe that his Ma eſty ſhould ſettle the Government of the Church without Biſhops, by ſome o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her Super-intendence, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the content of the Epiſcop<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l and Presbyte<g ref="char:EOLhyphen"/>rian p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rties, becauſe that is one of the Priviledges of the Crown, it doth not oblige the party to contend for that which his Ma eſty diſchargeth him of by a publick <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct of State: As for example, if a Lord ſhall, upon condi<g ref="char:EOLhyphen"/>tion from his Tenant or Vaſſal, take his Oath for performance of ſeveral Services in Homage and Feal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, if the Lord ſhall diſcharge the Tenant of part or all, the Tenant is ſo much, or wholly diſcharged of his Oaths as the Lord ſhall diſchage, notwithſtanding the Oath was peremptory: In thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> caſe, as alſo in that of Lands, he th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ſhall ſuggeſt, to beget <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ealouſies and fears of any thing, but that his Majeſty will de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l honourably juſtly, and well with all his Sub<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ects, i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an Enemy to the peace and welfare of the People.</p>
+            <p n="32">32. <hi>Whether it be for the ſafety of the Nations, to permit the Popiſh Lords to ſit in the Houſe before they have taken ſuch an Oath?</hi>
+            </p>
+            <p n="33">33. <hi>Whether his Ma esty, this City and Kingdoms be not in da<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ger of bloody</hi> Maſſacre <hi>by the confluence of thoſe bloody</hi> Iriſh Papiſts, <hi>to the number of many thouſands about City and Court, who withſtanding his</hi> Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtie <hi>late</hi> Proclamati<g ref="char:EOLhyphen"/>on <hi>to the contrary, who had a hand in the horrid maſſacre in</hi> Ireland <hi>and</hi> Savoy? <hi>And whether countenance and respect from the Courtiers, be not not a great Induce<g ref="char:EOLhyphen"/>ment to draw over many thouſands more if not timely prevented?</hi>
+            </p>
+            <pb n="16" facs="tcp:115630:9"/>
+            <p n="34">34. <hi>Whether his</hi> Majeſtie; <hi>perſon at Court, can be ſafe from danger when all places about are bought and ſold?</hi>
+            </p>
+            <p>
+               <hi>Whether the Queriſt be not a Friend and Servant to his God, his King and Country.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I ſhall ſay nothing to theſe Quaeries, I ſuppoſe they are malitiou, ſcandalous, and falſe. Only thus much to the laſt Clauſe, That the Que<g ref="char:EOLhyphen"/>riſt is no Friend to God, his King, or Country, in regard that he in a clan<g ref="char:EOLhyphen"/>deſtine way, hath publiſhed ſuch a wicked Paper tending to beget and fo<g ref="char:EOLhyphen"/>ment Fears and Jealouſies in His Majeſtie's Subjects, by Reflecting upon Publike, Actions, to put all in a flame and diſturbance, out of which the Nations, through the goodneſs of God, lately have been delivered. It had been his duty, as well as it is all others duty, to ſtudy healing and mode<g ref="char:EOLhyphen"/>ration, uniting and compoſing of Differences: He that doth otherwiſe, Either by Action, Word, or Writing, let him be of what Party ſoever he will, is no other than an Enemy to God, the King, and his Country.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
